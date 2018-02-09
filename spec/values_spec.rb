@@ -1,7 +1,7 @@
 require_relative 'spec_helper'
 require_relative '../lib/values.rb'
 
-puts describe "#get_the_values" do 
+puts describe "#get_the_values" do
 
   let :groceries do
     {
